@@ -16,5 +16,20 @@ existent and newly developed tools. We proposed to work toward two final product
 
 ## Genome Train
 
+<ul>
+{% assign pages_list = site.pages %}
+ {% for node in pages_list %}
+    {% if node.title != null %}
+      {% if group == null or group == node.group %}
+        {% if page.url == node.url %}
+        <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+        {% else %}
+        <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}: {{node.url}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+</ul>
 
  
