@@ -1,4 +1,4 @@
-At this time, DNA sequencing technology cannot determine the in complete nucleotide sequence of all chromosomal DNA strands from a sample of target organism DNA.    Chromosomes are simply too large, so one must first physically break the DNA strands into pieces, sequence, and reconstruct the reference chromosome sequences.
+At this time, DNA sequencing technology cannot determine the complete nucleotide sequence of all chromosomal DNA strands from a sample of target organism DNA.    Chromosomes are simply too large, so one must first physically break the DNA strands into pieces, sequence, and reconstruct the reference chromosome sequences.
 
 Genome assemblers are complex software workflows that require high-performance computing resources, significant operator skill, and real experience in optimizing the genome reconstruction process, which can be very different depending upon the genome complexity, heterozygosity and ploidy of a given species.    
 
