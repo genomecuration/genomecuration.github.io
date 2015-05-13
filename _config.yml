@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Genome Curation Communities
+tagline: Overcoming the challenges of genomics on emerging model organisms
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : "NESCent Genome Curation Working Group"
+  email : monica.cecilia    @gmail.com
+  github : genomecuration
   twitter : username
   feedburner : feedname
 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://genomecuration.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -69,11 +69,11 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+#  archive_path: /archive.html
+#  categories_path : /categories.html
+#  tags_path : /tags.html
+#  atom_path : /atom.xml
+#  rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
