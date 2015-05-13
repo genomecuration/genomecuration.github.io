@@ -1,14 +1,16 @@
 Naturally, there are no tools to help a researcher determine experimental intention, but this is the most critical station on the train ride to a reference genome. Here is a checklist of important things to consider:
 
 1. What is your Primary aim?
-  *Is there a specific hypothesis in mind, or is this an expedition to form new ones?
-  *A cluster of closely related species, or just a favourite one?
+Is there a specific hypothesis in mind, or is this an expedition to form new ones?
+A cluster of closely related species, or just a favourite one?
 
 2. Community resources
-  *Key advisors that can help along the way?
-  *Are there any existing community resources, such as ESTs, BAC libraries, frozen specimens or live cultures?
-  *Are there any closely related species with sequenced genomes? 
-  *Are there any closely related species with sequenced AND well-annotated genomes?
+Key advisors that can help along the way?
+Are there any existing community resources, such as ESTs, BAC libraries, frozen specimens or live cultures?
+Are there any closely related species with sequenced genomes? 
+Are there any closely related species with sequenced AND well-annotated genomes?
+
+
 
 
 3. Any prior knowledge on the genomic architecture of the species (e.g. sex chromosomes, ploidy, genome size, number of chromosomes) and in particular the collected specimens (e.g. sex, heterozygosity levels). 
