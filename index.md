@@ -12,3 +12,9 @@ existent and newly developed tools. We proposed to work toward two final product
   1. building novel or enhancing existing software that culminates in a single platform for genome analysis
   2. constructing a genomics curation curriculum for researchers of any career stage.
 
+
+
+## Genome Train
+
+
+ 
