@@ -6,7 +6,7 @@ title: Station A.  Experimental Design
 
 Naturally, there are no tools to help a researcher determine experimental intention, but this is the most critical station on the train ride to a reference genome. Here is a checklist of important things to consider:
 
-**1. What is your Primary aim?
+**1. What is your Primary aim?**
 
   Is there a specific hypothesis in mind, or is this an expedition to form new ones?
   A cluster of closely related species, or just a favourite one?
