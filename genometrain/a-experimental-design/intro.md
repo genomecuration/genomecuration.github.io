@@ -8,9 +8,8 @@ Naturally, there are no tools to help a researcher determine experimental intent
 
 **1. How will you use the reference genome reagent?**
 
-  Is there a specific hypothesis in mind, or is this an expedition to form new ones?
-  
-  Is the genome part of a cluster of closely related species, or just a favourite one?
+Is there a specific hypothesis in mind, or is this an expedition to form new ones?
+Is the genome part of a cluster of closely related species, or just a favourite one?
 
 **2. How will you identify and engage the user community?**
 
