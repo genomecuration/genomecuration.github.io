@@ -1,6 +1,6 @@
 Here are some useful software  tools for genome assembly:
 
-#Overlap layout consensus# 
+#Overlap layout consensus
 
 These assemblers use read alignments to generate consensus sequence, best for longer read technologies. Examples include: 
 
