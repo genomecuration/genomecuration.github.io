@@ -1,6 +1,4 @@
 
-## Structural annotation training materials 
-
 ### Gene validator
 [Gene validatior tutorial](curated-collection/genevalidator/tutorial/index.html)
 
