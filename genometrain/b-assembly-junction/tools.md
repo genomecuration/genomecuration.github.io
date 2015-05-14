@@ -1,7 +1,6 @@
 Here are some useful software  tools for genome assembly:
 
-*Overlap layout consensus*
-
+*Overlap layout consensus*.
 These assemblers use read alignments to generate consensus sequence, best for longer read technologies. Examples include: 
 
 [Celera wgs-asssembler](http://wgs-assembler.sourceforge.net)
@@ -10,7 +9,7 @@ These assemblers use read alignments to generate consensus sequence, best for lo
 
 [String Graph Assembler](https://github.com/jts/sga)
 
-*Graph-based assemblers*
+*Graph-based assemblers*.
 These assemblers split the sequence reads into kmers and derive consensus sequence from weighted graphs, best for highly accurate short read technologies. Examples include: 
 
 [Velvet](https://www.ebi.ac.uk/~zerbino/velvet)
