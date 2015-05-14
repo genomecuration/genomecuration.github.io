@@ -8,7 +8,7 @@ These assemblers use read alignments to generate consensus sequence, best for lo
 
 [Newbler (Roche)](http://www.454.com/products/analysis-software) 
 
-String Graph Assembler(https://github.com/jts/sga)
+[String Graph Assembler](https://github.com/jts/sga)
 
 #Graph-based assemblers#
 These assemblers split the sequence reads into kmers and derive consensus sequence from weighted graphs, best for highly accurate short read technologies. Examples include: 
