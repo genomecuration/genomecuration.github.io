@@ -2,5 +2,32 @@
 theme :
   name : twitter
 ---
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+		<a class="brand" href="#">{{ site.name }}</a>
+		<div class="nav-collapse collapse">
+		  <ul class="nav">
+
+		    <li>
+                <a href="/">
+                    Home
+                </a>
+            </li>
+
+		    <li>
+                <a href="/genometrain/a-experimental-design/">
+                    Experimental Design
+                </a>
+            </li>
+
+		  </ul>
+		</div>
+    </div>
+  </div>
+</div>
+
 {% include JB/setup %}
 {% include themes/twitter/default.html %}
+
