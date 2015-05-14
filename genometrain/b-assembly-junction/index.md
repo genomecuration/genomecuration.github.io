@@ -10,6 +10,5 @@ tag: stationoverview
 
 
 # Tools
-{% comment %} 
-  "include_relative tools.md" 
-{% endcomment %}
+
+{% include_relative tools.md %}
