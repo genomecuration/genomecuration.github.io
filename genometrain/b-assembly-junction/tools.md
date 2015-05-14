@@ -11,15 +11,15 @@ These assemblers use read alignments to generate consensus sequence, best for lo
 String Graph Assembler(https://github.com/jts/sga)
 
 #Graph-based assemblers#
-These asemblers split the sequence reads into kmers and derive consensus sequence from weighted graphs, best for highly accurate short read technologies. Examples include: 
+These assemblers split the sequence reads into kmers and derive consensus sequence from weighted graphs, best for highly accurate short read technologies. Examples include: 
 
-Velvet(https://www.ebi.ac.uk/~zerbino/velvet)
+[Velvet](https://www.ebi.ac.uk/~zerbino/velvet)
 
-ABySS(http://www.bcgsc.ca/platform/bioinfo/software/abyss)
+[ABySS](http://www.bcgsc.ca/platform/bioinfo/software/abyss)
 
-SOAPdenovo(http://soap.genomics.org.cn/soapdenovo.html)
+[SOAPdenovo](http://soap.genomics.org.cn/soapdenovo.html)
 
-AllPaths(https://www.broadinstitute.org/software/allpaths-lg/blog)
+[AllPaths](https://www.broadinstitute.org/software/allpaths-lg/blog)
 
 *Notes*
 Available computational resources need to be considered (for example, ABySS was designed for distributed computing systems, while SOAPdenovo runs best on single servers with multiple processors).
