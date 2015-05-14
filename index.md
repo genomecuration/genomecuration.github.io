@@ -2,9 +2,9 @@
 layout: page
 title: Genome curation on emerging model species
 ---
-## Building non-model species genome curation communities
+## About
 
-The objectives of the project are to bring together software engineers and biologists to design
+The objectives of [the project](http://nescent.org/science/awards_summary.php?id=377) are to bring together software engineers and biologists to design
 and implement essential software for answering questions in evolutionary genomics, and to
 offer researchers the training material to be able to efficiently conduct these studies using both
 existent and newly developed tools. We proposed to work toward two final products: 
@@ -23,11 +23,7 @@ existent and newly developed tools. We proposed to work toward two final product
  {% for node in pages_list %}
     {% if node.tag == 'stationoverview' %} 
       {% if group == null or group == node.group %}
-        {% if page.url == node.url %}
-        <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
-        {% else %}
-        <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
-        {% endif %}
+        <li><strong><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></strong></li>
       {% endif %}
     {% endif %}
   {% endfor %}
