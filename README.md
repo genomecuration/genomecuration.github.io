@@ -11,6 +11,16 @@ Within genometrain subdirectories
 * `scripts`: scripts that we feel can be helpful 
 
 
+For a `.md` page to be converted to HTML it needs to include the follwoing at the top: 
+
+```
+---
+layout: page
+title: Genome curation on emerging model species blablab
+---
+```
+
+
 # Testing website
 
 In root directory (i.e. this one), type `jekyll serve --watch`

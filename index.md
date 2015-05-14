@@ -16,6 +16,29 @@ existent and newly developed tools. We proposed to work toward two final product
 
 ## Genome Train
 
+{% include_relative genometrain/intro.md %}
+
+<ol type="A">
+{% assign pages_list = site.pages | sort:"url" %}
+ {% for node in pages_list %}
+    {% if node.tag == 'stationoverview' %} 
+      {% if group == null or group == node.group %}
+        {% if page.url == node.url %}
+        <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+        {% else %}
+        <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ol>
+
+
+{% comment %}
+
+
+## Pages 
+
 <ul>
 {% assign pages_list = site.pages %}
  {% for node in pages_list %}
@@ -33,3 +56,5 @@ existent and newly developed tools. We proposed to work toward two final product
 </ul>
 
  
+{% endcomment %}
+
