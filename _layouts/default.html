@@ -3,12 +3,22 @@ theme :
   name : twitter
 ---
 
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title> {{ page.title }} </title>
+    <link rel="stylesheet" href="/style.css" />
+</head>
+
+<body>
+
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
 		<a class="brand" href="#">{{ site.name }}</a>
 		<div class="nav-collapse collapse">
-		  <ul class="nav">
+		  <ul class="nav gtmenu">
 
 		    <li>
                 <a href="/">
@@ -55,3 +65,6 @@ theme :
 {% include JB/setup %}
 {% include themes/twitter/default.html %}
 
+</body>
+
+</html>
