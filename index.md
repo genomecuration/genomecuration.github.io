@@ -58,3 +58,6 @@ existent and newly developed tools. We proposed to work toward two final product
  
 {% endcomment %}
 
+## Featured tools
+
+{% include_relative deliverables.md %}
