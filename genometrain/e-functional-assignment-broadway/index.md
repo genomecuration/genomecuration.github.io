@@ -11,3 +11,6 @@ tag: stationoverview
 {% comment %} 
   "include_relative tools.md" 
 {% endcomment %}
+
+# Training materials
+{% include_relative materials.md %}
