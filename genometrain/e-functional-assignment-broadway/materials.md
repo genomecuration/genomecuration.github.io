@@ -1,4 +1,4 @@
-### Gene Ontology
+###Gene Ontology
 
 - [GO tutorial for functional annotation](curated-collection/GO/functional_and_GO_exercises.ppt)
 - [GO tutorial group exercise and discussion](curated-collection/GO/functional_exercise_group_discussion.ppt)

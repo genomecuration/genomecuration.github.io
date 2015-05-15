@@ -1,9 +1,9 @@
-### Feature curation
+###Feature curation
 
 - [Feature curation of MedFly - Alexie Papanicolaou](curated-collection/presentations/Medfly_Curation.pptx)
 - [Biocuration lecture - Monica Munoz-Torres](curated-collection/presentations/Munoz-Torres_Biocuration2014_040814.pptx)
 
-### WebApollo
+###WebApollo
 
 - [WebApollo lecture - Monica Munoz-Torres](curated-collection/webapollo/WebApollo_Intro_Moni[1].pdf)
 - [WebApollo and introduction to i5k insect genome project - Monica Munoz-Torres](curated-collection/webapollo/WebApollo_Munoz-Torres_Web-Apollo_intro_i5kPilot_04Feb14.pptx)
