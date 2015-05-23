@@ -1,3 +1,5 @@
-.gtmenu {
-    background-color: 000;
+#genomecuration .genomemenu li > a:hover
+{
+    color: black;
 }
+
